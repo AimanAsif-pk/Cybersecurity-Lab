@@ -1,10 +1,24 @@
-# Cybersecurity-Lab
+# Cybersecurity Home Lab
 
-This repository documents my cybersecurity engineering journey.
+## About
 
-## Goal
+This repository documents my hands-on cybersecurity learning journey, including security labs, vulnerability assessments, web security testing, detection engineering, and cloud security experiments.
 
-Build a professional home lab and practical cybersecurity portfolio.
+## Environment
 
-Started:
-July 2026
+Host OS:
+Windows 11
+
+Virtualization:
+VirtualBox
+
+Security OS:
+Kali Linux
+
+## Current Focus
+
+- Linux Security
+- Network Security
+- Vulnerability Assessment
+- Web Application Security
+- SOC Operations
