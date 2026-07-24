@@ -2,18 +2,13 @@
 
 ## About
 
-This repository documents my hands-on cybersecurity learning journey, including security labs, vulnerability assessments, web security testing, detection engineering, and cloud security experiments.
+This repository documents my hands-on cybersecurity learning journey, including security labs, vulnerability assessments, web application security testing, detection engineering, and cloud security experiments.
 
 ## Environment
 
-Host OS:
-Windows 11
-
-Virtualization:
-VirtualBox
-
-Security OS:
-Kali Linux
+- Host OS: Windows 11 Enterprise
+- Virtualization: VirtualBox
+- Security OS: Kali Linux
 
 ## Current Focus
 
